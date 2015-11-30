@@ -1,0 +1,47 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "jordan.a.baptiste@gmail.com",
+    "longName": "Poketch Coin Flipper",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/coin_icon.png",
+                "menuIcon": true,
+                "name": "IMAGE_COIN_ICON",
+                "type": "png"
+            },
+            {
+                "file": "images/background.png",
+                "name": "IMAGE_BACKGROUND",
+                "type": "png"
+            },
+            {
+                "file": "images/pebble_coin3.png",
+                "name": "IMAGE_COIN3",
+                "type": "png"
+            },
+            {
+                "file": "images/pebble_coin2.png",
+                "name": "IMAGE_COIN2",
+                "type": "png"
+            },
+            {
+                "file": "images/pebble_coin1.png",
+                "name": "IMAGE_COIN1",
+                "type": "png"
+            }
+        ]
+    },
+    "sdkVersion": "2",
+    "shortName": "Poketch Coin",
+    "uuid": "27a94498-5944-4995-9ab9-338b9d9c20bb",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
